@@ -1,0 +1,34 @@
+_repo: On-the-Ruin-of-Britain_1949
+_version: 0.0.1
+alternative_title: Liber querulus de excidio Britanniae. English
+contributor:
+  translator:
+    agent_name: Giles, J. A. (John Allen)
+    alias: Giles, John Allen
+    birthdate: 1808
+    deathdate: 1884
+    gutenberg_agent_id: '760'
+    url: http://www.gutenberg.org/2009/agents/760
+creator:
+  author:
+    agent_name: Gildas
+    gutenberg_agent_id: '759'
+    url: http://www.gutenberg.org/2009/agents/759
+    wikipedia: http://en.wikipedia.org/wiki/Gildas
+description: ''
+gutenberg_bookshelf: Arthurian Legends
+gutenberg_issued: '1999-11-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '1949'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Great Britain -- History -- To 449'
+- !lcc 'DA'
+- !lcsh 'Anglo-Saxons'
+- GITenberg
+title: On the Ruin of Britain
+url: http://www.gutenberg.org/ebooks/1949
